@@ -406,8 +406,7 @@ menu{
     color: #697484;
 }
 .introduction__image {
-    background: url(/Lab3-4/img/man.jpg) no-repeat
-    center center;
+    background: url("../img/man.jpg") no-repeat center center;
     background-size: cover;
   }
 @media screen and (max-width: 720px) {
